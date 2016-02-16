@@ -9,3 +9,7 @@ My first repository, to learn new things.
 
 > 1. Have ever done your work
 > 2. Don'nt Paste any thing from Web-site
+
+> return shell_exec
+
+* blue > My name is Obaid Khan
