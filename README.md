@@ -13,3 +13,7 @@ My first repository, to learn new things.
 > return shell_exec
 
 * +My name is Obaid Khan
+
+> 1. Bird
+> 2. McHale
+> 3. Parish
