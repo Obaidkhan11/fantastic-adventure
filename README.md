@@ -7,7 +7,7 @@ My first repository, to learn new things.
 
     1998/. Its a great Era 
     
-<dic class="header">
+<div class="header">
         &copy; 2016 Obaid Corporation
-        </dic>
+        </div>
     
