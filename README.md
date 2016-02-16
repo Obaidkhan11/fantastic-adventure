@@ -5,4 +5,4 @@ My first repository, to learn new things.
 
 * Git Essential
 
-> Git essentiall is important because its a tool from which we can make versioning of our files. 
+> +Git essentiall is important because its a tool from which we can make versioning of our files.+
