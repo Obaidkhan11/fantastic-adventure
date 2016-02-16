@@ -7,7 +7,6 @@ My first repository, to learn new things.
 
     1998/. Its a great Era 
     
-<div class="header">
-        &copy; 2016 Obaid Corporation
-        </div>
-    
+    <div clas="footer">
+            &copy; 2000 Mohmand Company
+            </div>
