@@ -12,4 +12,4 @@ My first repository, to learn new things.
 
 > return shell_exec
 
-* blue > My name is Obaid Khan
+* -My name is Obaid Khan-
