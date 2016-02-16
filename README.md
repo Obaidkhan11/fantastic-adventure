@@ -14,6 +14,6 @@ My first repository, to learn new things.
 
 * +My name is Obaid Khan
 
-> 1. Bird
-> 2. McHale
-> 3. Parish
+* Bird
+* McHale
+* Parish
