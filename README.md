@@ -15,5 +15,5 @@ My first repository, to learn new things.
 * +My name is Obaid Khan
 
 * #Bird
-* #McHale#
-* Parish#
+* ##McHale##
+* ##Parish##
